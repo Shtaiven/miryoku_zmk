@@ -13,4 +13,4 @@ jobs:
       kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
       modules: '["shtaiven/shockboard-zmk-config/main"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
-      branches: '["caksoylar/zmk/feat/mouse-keys-3.2","zmkfirmware/zmk/main caksoylar/zmk/feat/mouse-keys-3.2"]'
+      branches: '["urob/zmk/main"]'
