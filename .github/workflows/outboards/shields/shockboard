@@ -1,0 +1,9 @@
+# Copyright 2024 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+#
+# Modified 2024 Steven Eisinger
+
+outboard_repository=Shtaiven/shockboard-zmk-config
+outboard_ref=main
+outboard_from=config/boards/shields/shockboard
+outboard_to=boards/shields/shockboard
