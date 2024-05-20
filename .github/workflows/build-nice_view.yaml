@@ -12,4 +12,4 @@ jobs:
       shield: '["shockboard nice_view_adapter nice_view"]'
       modules: '["shtaiven/shockboard-zmk-config/main"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
-      branches: '["urob/zmk/main"]'
+      branches: '["petejohanson/zmk/feat/pointers-move-scroll","zmkfirmware/zmk/main petejohanson/zmk/feat/pointers-move-scroll"]'
